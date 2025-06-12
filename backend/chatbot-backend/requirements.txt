@@ -1,0 +1,10 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+python-multipart
+motor
+passlib[bcrypt]
+python-jose[cryptography]
+requests
+pydantic
+bson
